@@ -8,7 +8,7 @@ public class Browser {
     }
 
     private String sendHttpRequest(String ip) {
-        return "<html></html>";
+        return "<html></html> ";
     }
 
     private String findIpAddress(String address) {
