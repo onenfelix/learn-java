@@ -12,6 +12,6 @@ public class Browser {
     }
 
     private String findIpAddress(String address) {
-        return "127.0.0.1";
+        return "127.0.0.2";
     }
 }
